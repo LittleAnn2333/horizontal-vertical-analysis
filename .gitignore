@@ -1,0 +1,39 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# 生成的临时文件
+*.log
+*.tmp
+*.bak
+*.pyc
+__pycache__/
+
+# 用户的真实研究数据(防止误传)
+# 任何叫 my-*.json / private-*.json 的文件都被忽略
+my-*.json
+private-*.json
+real-data/
+*-private/
+
+# 生成的报告文件(用户自己跑的)
+output/
+generated/
+
+# 但是 examples/ 下面的样例报告要保留
+!examples/**/*.docx
+!examples/**/*.json
