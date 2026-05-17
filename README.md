@@ -1,6 +1,6 @@
 # 横纵分析 · Horizontal-Vertical Analysis
 
-> 一个 Claude skill,用"横纵分析框架 + 金融视角"双层方法论,把杂乱的股票研究素材结构化成一份既好读又严谨的 Word 研究报告。
+> 一个 skill,用"横纵分析框架 + 金融视角"双层方法论,把杂乱的股票研究素材结构化成一份既好读又严谨的 Word 研究报告。
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-v3.0-blue.svg)](./CHANGELOG.md)
